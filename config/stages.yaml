@@ -1,0 +1,45 @@
+stages:
+  - key: prospecting
+    name: 陌拜线索
+    probability: 0.05
+    active: true
+  - key: contacted
+    name: 已触达
+    probability: 0.10
+    active: true
+  - key: engaged
+    name: 有效接触
+    probability: 0.20
+    active: true
+  - key: qualified
+    name: 需求确认
+    probability: 0.35
+    active: true
+  - key: sampling
+    name: 送样测试
+    probability: 0.50
+    active: true
+  - key: quoted
+    name: 已报价
+    probability: 0.65
+    active: true
+  - key: negotiating
+    name: 商务谈判
+    probability: 0.80
+    active: true
+  - key: won
+    name: 成交
+    probability: 1.00
+    active: true
+  - key: repeat
+    name: 复购
+    probability: 1.00
+    active: true
+  - key: paused
+    name: 暂缓
+    probability: 0.10
+    active: false
+  - key: lost
+    name: 流失
+    probability: 0.00
+    active: false

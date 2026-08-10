@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8085b5b8-4f7b-4096-a41f-7da6722d63e5",
+    "customer_id": "2db5a718-64fa-44ec-82ee-af09eb56be32",
+    "from_stage": "",
+    "to_stage": "陌拜线索",
+    "changed_at": "2026-07-24T11:23:22",
+    "note": "新建客户"
+  },
+  {
+    "id": "fde559a1-2a6c-4ce7-b4b5-bb511ed342c9",
+    "customer_id": "1fe80ed1-bea7-48e3-8848-039477cf6179",
+    "from_stage": "",
+    "to_stage": "陌拜线索",
+    "changed_at": "2026-07-27T10:33:20",
+    "note": "新建客户"
+  },
+  {
+    "id": "3ed0e153-55b0-4266-8ef5-a16b21e07164",
+    "customer_id": "1fe80ed1-bea7-48e3-8848-039477cf6179",
+    "from_stage": "陌拜线索",
+    "to_stage": "已触达",
+    "changed_at": "2026-07-27T10:36:11",
+    "note": ""
+  }
+]

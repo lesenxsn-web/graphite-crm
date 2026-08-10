@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "description": "石墨增碳剂销售线索规则评分模型；后续可由Codex替换为机器学习模型。",
+  "weights": {
+    "stage": 35,
+    "annual_demand": 25,
+    "contact_completeness": 15,
+    "decision_maker_access": 15,
+    "followup_recency": 10
+  },
+  "demand_thresholds": [20, 100, 300, 1000]
+}
